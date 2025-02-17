@@ -15,7 +15,6 @@
 - 📚 Acadêmico de Engenharia de Software
 - 📗 Instituto Federal de Ciência e Tecnologia do Amazonas - IFAM
 - 📫 wsas2002@gmail.com
-- 🚹 Pronouns: Ele/Dele
 - 🤔 There isn't much! but I'm looking to improve my developer skills
 
 ##
