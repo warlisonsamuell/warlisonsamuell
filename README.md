@@ -12,7 +12,8 @@
 
  ##
 
-- 📚 Software Enginering Student
+- 📚 Software Engineering Student
+- 💻 Backend Developer
 - 📗 Instituto Federal de Ciência e Tecnologia do Amazonas - IFAM
 - 📫 wsas2002@gmail.com
 - 🤔 There isn't much! but I'm looking to improve my developer skills
