@@ -12,7 +12,7 @@
 
  ##
 
-- 📚 Acadêmico de Engenharia de Software
+- 📚 Software Enginering Student
 - 📗 Instituto Federal de Ciência e Tecnologia do Amazonas - IFAM
 - 📫 wsas2002@gmail.com
 - 🤔 There isn't much! but I'm looking to improve my developer skills
